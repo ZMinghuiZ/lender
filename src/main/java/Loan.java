@@ -13,7 +13,7 @@ public class Loan {
         this.isPaid = false;
     }
 
-    public int getAmount() {
+    public int geAmount() {
         return amount;
     }
 
